@@ -1,0 +1,47 @@
+body {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100px;
+}
+
+h1 {
+    font-size: 60px;
+    color: whitesmoke;
+    margin-left: 30%;
+    width: 80%;
+}
+
+.para-0 {
+    padding-left: 5%;
+}
+
+.para-1 {
+    color: whitesmoke;
+    padding-left: 20%;
+}
+
+
+
+
+
+section {
+    display: flex;
+}
+
+.don-1 {
+    margin-left: 10%;
+    margin-right: 5%;
+
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: rgb(255, 115, 0);
+    padding: 10px 40px;
+    margin-left: 45%;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+
+}
